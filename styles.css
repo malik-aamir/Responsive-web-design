@@ -1,5 +1,6 @@
 h1{
   text-transform:uppercase;
   background-color:grey;
-  border-bottom:4px solid red;
+  border-bottom:4px solid yellow;
+  border-bottom:4px solid green;
 }
