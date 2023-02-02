@@ -1,0 +1,12 @@
+h1{
+  text-transform:uppercase;
+  background-color:grey;
+  border-bottom:4px solid yellow;
+  border-top:4px solid green;
+}
+.course{
+font-size:50px;
+}
+body{
+  margin:20px;
+}
