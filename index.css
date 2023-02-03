@@ -13,7 +13,7 @@ body{
 ol{
   display:flex;
   flex-grow:auto;
-  flex-direction:row;
+  flex-direction:column;
 }
 ol li{
   padding:3rem;
