@@ -16,5 +16,5 @@ ol{
   flex-direction:column;
 }
 ol li{
-  padding:3rem;
+  text-transform: uppercase;
 }
