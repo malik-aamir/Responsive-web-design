@@ -12,4 +12,5 @@ body{
 }
 ol{
   display:flex;
+  flex-grow:1;
 }
