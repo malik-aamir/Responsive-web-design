@@ -14,5 +14,7 @@ ol{
   display:flex;
   flex-grow:auto;
   flex-direction:row;
+}
+ol li{
   padding:0.5rem;
 }
