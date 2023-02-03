@@ -13,7 +13,8 @@ body{
 ol{
   display:flex;
   flex-grow:auto;
-  flex-direction:column;
+  flex-direction:row;
+  width:100%;
 }
 ol li{
   text-transform: uppercase;
