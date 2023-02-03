@@ -9,4 +9,5 @@ font-size:50px;
 }
 body{
   margin:20px;
+  display:flex;
 }
