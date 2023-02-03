@@ -13,4 +13,5 @@ body{
 ol{
   display:flex;
   flex-grow:auto;
+  flex-direction:column;
 }
