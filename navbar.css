@@ -14,7 +14,7 @@ nav ul{
 nav ul li{
     cursor:pointer;
     padding: 0.5rem;
-    flex:center; 
+    flex:90%; 
     text-align:center;
 }
 
