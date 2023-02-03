@@ -13,8 +13,7 @@ nav ul{
 
 nav ul li{
     cursor:pointer;
-    padding: 0.5rem;
-    flex:400px; 
+    padding: 0.5rem; 
     text-align:center;
 }
 
