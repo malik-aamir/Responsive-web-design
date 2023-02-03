@@ -10,6 +10,13 @@ font-size:50px;
 body{
   margin:20px;
 }
+ol{
+  display:flex;
+  flex-grow:auto;
+  flex-direction:column;
+  flex-wrap:wrap;
+  width:100%;
+}
 ol li{
   text-transform: uppercase;
 }
