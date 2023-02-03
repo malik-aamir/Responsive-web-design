@@ -13,7 +13,7 @@ body{
 ol{
   display:flex;
   flex-grow:auto;
-  flex-direction:column;
+  flex-direction:row;
   flex-wrap:wrap;
   width:100%;
 }
